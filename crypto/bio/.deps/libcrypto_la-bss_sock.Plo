@@ -12,36 +12,33 @@ bio/libcrypto_la-bss_sock.lo: bio/bss_sock.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/bits/uio.h \
  /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
  /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
  /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
- /usr/include/asm-generic/sockios.h /usr/include/bits/socket2.h \
- /usr/include/errno.h /usr/include/bits/errno.h \
- /usr/include/linux/errno.h /usr/include/asm/errno.h \
- /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- ../include/compat/stdio.h /usr/include/stdio.h /usr/include/libio.h \
- /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/asm-generic/sockios.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h ../include/compat/stdio.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
- /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
- ../include/compat/string.h /usr/include/string.h /usr/include/xlocale.h \
- /usr/include/bits/string.h /usr/include/bits/string2.h \
- ../include/compat/stdlib.h /usr/include/stdlib.h \
- /usr/include/bits/string3.h ../include/compat/unistd.h \
- /usr/include/unistd.h /usr/include/bits/posix_opt.h \
- /usr/include/bits/environments.h /usr/include/bits/confname.h \
- /usr/include/getopt.h /usr/include/bits/unistd.h \
+ /usr/include/bits/stdio.h ../include/compat/string.h \
+ /usr/include/string.h /usr/include/xlocale.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h ../include/compat/stdlib.h \
+ /usr/include/stdlib.h ../include/compat/unistd.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h \
  ../include/openssl/bio.h ../include/openssl/opensslconf.h \
  ../include/openssl/opensslfeatures.h ../include/openssl/crypto.h \
  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
  /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/bits/stdlib.h ../include/openssl/stack.h \
- ../include/openssl/safestack.h ../include/openssl/opensslv.h \
- ../include/openssl/ossl_typ.h
+ ../include/openssl/stack.h ../include/openssl/safestack.h \
+ ../include/openssl/opensslv.h ../include/openssl/ossl_typ.h
 
 /usr/include/stdc-predef.h:
 
@@ -95,8 +92,6 @@ bio/libcrypto_la-bss_sock.lo: bio/bss_sock.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -122,8 +117,6 @@ bio/libcrypto_la-bss_sock.lo: bio/bss_sock.c /usr/include/stdc-predef.h \
 /usr/include/asm/sockios.h:
 
 /usr/include/asm-generic/sockios.h:
-
-/usr/include/bits/socket2.h:
 
 /usr/include/errno.h:
 
@@ -155,8 +148,6 @@ bio/libcrypto_la-bss_sock.lo: bio/bss_sock.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/stdio.h:
 
-/usr/include/bits/stdio2.h:
-
 ../include/compat/string.h:
 
 /usr/include/string.h:
@@ -171,8 +162,6 @@ bio/libcrypto_la-bss_sock.lo: bio/bss_sock.c /usr/include/stdc-predef.h \
 
 /usr/include/stdlib.h:
 
-/usr/include/bits/string3.h:
-
 ../include/compat/unistd.h:
 
 /usr/include/unistd.h:
@@ -184,8 +173,6 @@ bio/libcrypto_la-bss_sock.lo: bio/bss_sock.c /usr/include/stdc-predef.h \
 /usr/include/bits/confname.h:
 
 /usr/include/getopt.h:
-
-/usr/include/bits/unistd.h:
 
 ../include/openssl/bio.h:
 
@@ -202,8 +189,6 @@ bio/libcrypto_la-bss_sock.lo: bio/bss_sock.c /usr/include/stdc-predef.h \
 /usr/include/alloca.h:
 
 /usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/stdlib.h:
 
 ../include/openssl/stack.h:
 

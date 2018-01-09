@@ -11,28 +11,25 @@ conf/libcrypto_la-conf_api.lo: conf/conf_api.c /usr/include/stdc-predef.h \
  /usr/include/sys/types.h ../include/compat/time.h /usr/include/time.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/alloca.h \
- /usr/include/bits/stdlib-float.h /usr/include/bits/stdlib.h \
- ../include/compat/string.h /usr/include/string.h \
- /usr/include/bits/string.h /usr/include/bits/string2.h \
- /usr/include/bits/string3.h ../include/compat/unistd.h \
+ /usr/include/bits/stdlib-float.h ../include/compat/string.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h ../include/compat/unistd.h \
  /usr/include/unistd.h /usr/include/bits/posix_opt.h \
  /usr/include/bits/environments.h /usr/include/bits/confname.h \
- /usr/include/getopt.h /usr/include/bits/unistd.h \
- ../include/openssl/conf.h ../include/openssl/opensslconf.h \
- ../include/openssl/opensslfeatures.h ../include/openssl/bio.h \
- ../include/compat/stdio.h /usr/include/stdio.h /usr/include/libio.h \
- /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/getopt.h ../include/openssl/conf.h \
+ ../include/openssl/opensslconf.h ../include/openssl/opensslfeatures.h \
+ ../include/openssl/bio.h ../include/compat/stdio.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
- /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
- ../include/openssl/crypto.h ../include/openssl/stack.h \
- ../include/openssl/safestack.h ../include/openssl/opensslv.h \
- ../include/openssl/ossl_typ.h ../include/openssl/lhash.h \
- ../include/openssl/conf_api.h
+ /usr/include/bits/stdio.h ../include/openssl/crypto.h \
+ ../include/openssl/stack.h ../include/openssl/safestack.h \
+ ../include/openssl/opensslv.h ../include/openssl/ossl_typ.h \
+ ../include/openssl/lhash.h ../include/openssl/conf_api.h
 
 /usr/include/stdc-predef.h:
 
@@ -88,8 +85,6 @@ conf/libcrypto_la-conf_api.lo: conf/conf_api.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -104,8 +99,6 @@ conf/libcrypto_la-conf_api.lo: conf/conf_api.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/stdlib-float.h:
 
-/usr/include/bits/stdlib.h:
-
 ../include/compat/string.h:
 
 /usr/include/string.h:
@@ -113,8 +106,6 @@ conf/libcrypto_la-conf_api.lo: conf/conf_api.c /usr/include/stdc-predef.h \
 /usr/include/bits/string.h:
 
 /usr/include/bits/string2.h:
-
-/usr/include/bits/string3.h:
 
 ../include/compat/unistd.h:
 
@@ -127,8 +118,6 @@ conf/libcrypto_la-conf_api.lo: conf/conf_api.c /usr/include/stdc-predef.h \
 /usr/include/bits/confname.h:
 
 /usr/include/getopt.h:
-
-/usr/include/bits/unistd.h:
 
 ../include/openssl/conf.h:
 
@@ -155,8 +144,6 @@ conf/libcrypto_la-conf_api.lo: conf/conf_api.c /usr/include/stdc-predef.h \
 /usr/include/bits/sys_errlist.h:
 
 /usr/include/bits/stdio.h:
-
-/usr/include/bits/stdio2.h:
 
 ../include/openssl/crypto.h:
 

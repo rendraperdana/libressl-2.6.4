@@ -11,14 +11,13 @@ pqueue.lo: pqueue.c /usr/include/stdc-predef.h ../include/compat/stdlib.h \
  /usr/include/sys/types.h ../include/compat/time.h /usr/include/time.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/alloca.h \
- /usr/include/bits/stdlib-float.h /usr/include/bits/stdlib.h \
- ../include/compat/string.h /usr/include/string.h \
- /usr/include/bits/string.h /usr/include/bits/string2.h \
- /usr/include/bits/string3.h ../include/pqueue.h
+ /usr/include/bits/stdlib-float.h ../include/compat/string.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h ../include/pqueue.h
 
 /usr/include/stdc-predef.h:
 
@@ -74,8 +73,6 @@ pqueue.lo: pqueue.c /usr/include/stdc-predef.h ../include/compat/stdlib.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -90,8 +87,6 @@ pqueue.lo: pqueue.c /usr/include/stdc-predef.h ../include/compat/stdlib.h \
 
 /usr/include/bits/stdlib-float.h:
 
-/usr/include/bits/stdlib.h:
-
 ../include/compat/string.h:
 
 /usr/include/string.h:
@@ -99,7 +94,5 @@ pqueue.lo: pqueue.c /usr/include/stdc-predef.h ../include/compat/stdlib.h \
 /usr/include/bits/string.h:
 
 /usr/include/bits/string2.h:
-
-/usr/include/bits/string3.h:
 
 ../include/pqueue.h:

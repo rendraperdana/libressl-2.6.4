@@ -12,20 +12,18 @@ asn1/libcrypto_la-x_algor.lo: asn1/x_algor.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap-16.h ../include/compat/sys/select.h \
  /usr/include/sys/select.h /usr/include/bits/select.h \
  /usr/include/bits/sigset.h /usr/include/bits/time.h \
- /usr/include/bits/select2.h /usr/include/sys/sysmacros.h \
- /usr/include/bits/pthreadtypes.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h ../include/openssl/evp.h \
  ../include/openssl/bio.h ../include/compat/stdio.h /usr/include/stdio.h \
  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
- /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
- ../include/openssl/crypto.h ../include/compat/stdlib.h \
- /usr/include/stdlib.h /usr/include/bits/waitflags.h \
- /usr/include/bits/waitstatus.h /usr/include/xlocale.h \
- /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/bits/stdlib.h ../include/openssl/stack.h \
+ /usr/include/bits/stdio.h ../include/openssl/crypto.h \
+ ../include/compat/stdlib.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/xlocale.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-float.h ../include/openssl/stack.h \
  ../include/openssl/safestack.h ../include/openssl/opensslv.h \
  ../include/openssl/objects.h ../include/openssl/obj_mac.h \
  ../include/openssl/asn1.h /usr/include/bits/timex.h \
@@ -90,8 +88,6 @@ asn1/libcrypto_la-x_algor.lo: asn1/x_algor.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -124,8 +120,6 @@ asn1/libcrypto_la-x_algor.lo: asn1/x_algor.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/stdio.h:
 
-/usr/include/bits/stdio2.h:
-
 ../include/openssl/crypto.h:
 
 ../include/compat/stdlib.h:
@@ -141,8 +135,6 @@ asn1/libcrypto_la-x_algor.lo: asn1/x_algor.c /usr/include/stdc-predef.h \
 /usr/include/alloca.h:
 
 /usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/stdlib.h:
 
 ../include/openssl/stack.h:
 

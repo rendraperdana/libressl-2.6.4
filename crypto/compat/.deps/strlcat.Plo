@@ -10,14 +10,13 @@ compat/strlcat.lo: compat/strlcat.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
  ../include/compat/string.h /usr/include/string.h /usr/include/xlocale.h \
  /usr/include/bits/string.h /usr/include/bits/string2.h \
- ../include/compat/stdlib.h /usr/include/stdlib.h \
- /usr/include/bits/string3.h
+ ../include/compat/stdlib.h /usr/include/stdlib.h
 
 /usr/include/stdc-predef.h:
 
@@ -63,8 +62,6 @@ compat/strlcat.lo: compat/strlcat.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -88,5 +85,3 @@ compat/strlcat.lo: compat/strlcat.c /usr/include/stdc-predef.h \
 ../include/compat/stdlib.h:
 
 /usr/include/stdlib.h:
-
-/usr/include/bits/string3.h:

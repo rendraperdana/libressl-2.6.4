@@ -12,14 +12,14 @@ compat/socket.o: compat/socket.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
  ../../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/bits/uio.h \
  /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
  /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
  /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
- /usr/include/asm-generic/sockios.h /usr/include/bits/socket2.h
+ /usr/include/asm-generic/sockios.h
 
 /usr/include/stdc-predef.h:
 
@@ -75,8 +75,6 @@ compat/socket.o: compat/socket.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -102,5 +100,3 @@ compat/socket.o: compat/socket.c /usr/include/stdc-predef.h \
 /usr/include/asm/sockios.h:
 
 /usr/include/asm-generic/sockios.h:
-
-/usr/include/bits/socket2.h:

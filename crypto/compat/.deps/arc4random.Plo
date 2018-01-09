@@ -11,11 +11,11 @@ compat/arc4random.lo: compat/arc4random.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/bits/stat.h \
- /usr/include/bits/fcntl2.h ../include/compat/limits.h \
+ ../include/compat/limits.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
@@ -29,14 +29,13 @@ compat/arc4random.lo: compat/arc4random.c /usr/include/stdc-predef.h \
  /usr/include/stdlib.h /usr/include/bits/waitflags.h \
  /usr/include/bits/waitstatus.h /usr/include/xlocale.h \
  /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/bits/stdlib.h ../include/compat/string.h \
- /usr/include/string.h /usr/include/bits/string.h \
- /usr/include/bits/string2.h /usr/include/bits/string3.h \
+ ../include/compat/string.h /usr/include/string.h \
+ /usr/include/bits/string.h /usr/include/bits/string2.h \
  ../include/compat/unistd.h /usr/include/unistd.h \
  /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
  /usr/include/bits/confname.h /usr/include/getopt.h \
- /usr/include/bits/unistd.h ../include/compat/sys/time.h \
- /usr/include/sys/time.h compat/chacha_private.h compat/arc4random.h \
+ ../include/compat/sys/time.h /usr/include/sys/time.h \
+ compat/chacha_private.h compat/arc4random.h \
  ../include/compat/sys/param.h /usr/include/sys/param.h \
  /usr/include/bits/param.h /usr/include/linux/param.h \
  /usr/include/asm/param.h /usr/include/asm-generic/param.h \
@@ -99,8 +98,6 @@ compat/arc4random.lo: compat/arc4random.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -112,8 +109,6 @@ compat/arc4random.lo: compat/arc4random.c /usr/include/stdc-predef.h \
 /usr/include/bits/wchar.h:
 
 /usr/include/bits/stat.h:
-
-/usr/include/bits/fcntl2.h:
 
 ../include/compat/limits.h:
 
@@ -165,8 +160,6 @@ compat/arc4random.lo: compat/arc4random.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/stdlib-float.h:
 
-/usr/include/bits/stdlib.h:
-
 ../include/compat/string.h:
 
 /usr/include/string.h:
@@ -174,8 +167,6 @@ compat/arc4random.lo: compat/arc4random.c /usr/include/stdc-predef.h \
 /usr/include/bits/string.h:
 
 /usr/include/bits/string2.h:
-
-/usr/include/bits/string3.h:
 
 ../include/compat/unistd.h:
 
@@ -188,8 +179,6 @@ compat/arc4random.lo: compat/arc4random.c /usr/include/stdc-predef.h \
 /usr/include/bits/confname.h:
 
 /usr/include/getopt.h:
-
-/usr/include/bits/unistd.h:
 
 ../include/compat/sys/time.h:
 

@@ -12,11 +12,11 @@ libcrypto_la-o_time.lo: o_time.c /usr/include/stdc-predef.h \
  /usr/include/sys/types.h ../include/compat/time.h /usr/include/time.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/bits/wchar.h \
- /usr/include/bits/string3.h o_time.h /usr/include/bits/timex.h
+ /usr/include/stdint.h /usr/include/bits/wchar.h o_time.h \
+ /usr/include/bits/timex.h
 
 /usr/include/stdc-predef.h:
 
@@ -76,8 +76,6 @@ libcrypto_la-o_time.lo: o_time.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -87,8 +85,6 @@ libcrypto_la-o_time.lo: o_time.c /usr/include/stdc-predef.h \
 /usr/include/stdint.h:
 
 /usr/include/bits/wchar.h:
-
-/usr/include/bits/string3.h:
 
 o_time.h:
 

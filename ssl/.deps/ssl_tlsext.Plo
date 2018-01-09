@@ -12,20 +12,19 @@ ssl_tlsext.lo: ssl_tlsext.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h ../include/openssl/evp.h \
  ../include/openssl/bio.h ../include/compat/stdio.h /usr/include/stdio.h \
  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
- /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
- ../include/openssl/crypto.h ../include/compat/stdlib.h \
- /usr/include/stdlib.h /usr/include/bits/waitflags.h \
- /usr/include/bits/waitstatus.h /usr/include/xlocale.h \
- /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/bits/stdlib.h ../include/openssl/stack.h \
+ /usr/include/bits/stdio.h ../include/openssl/crypto.h \
+ ../include/compat/stdlib.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/xlocale.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-float.h ../include/openssl/stack.h \
  ../include/openssl/safestack.h ../include/openssl/opensslv.h \
  ../include/openssl/objects.h ../include/openssl/obj_mac.h \
  ../include/openssl/asn1.h /usr/include/bits/timex.h \
@@ -40,18 +39,16 @@ ssl_tlsext.lo: ssl_tlsext.c /usr/include/stdc-predef.h \
  /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
  /usr/include/asm-generic/errno-base.h ../include/compat/string.h \
  /usr/include/string.h /usr/include/bits/string.h \
- /usr/include/bits/string2.h /usr/include/bits/string3.h \
- ../include/compat/unistd.h /usr/include/unistd.h \
- /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
- /usr/include/bits/confname.h /usr/include/getopt.h \
- /usr/include/bits/unistd.h ../include/openssl/err.h \
- ../include/openssl/ssl.h ../include/openssl/hmac.h \
- ../include/openssl/pem.h ../include/openssl/pem2.h \
- ../include/openssl/ssl2.h ../include/openssl/ssl3.h \
- ../include/openssl/tls1.h ../include/openssl/dtls1.h \
- ../include/compat/sys/time.h /usr/include/sys/time.h \
- ../include/openssl/ssl23.h ../include/openssl/srtp.h bytestring.h \
- ssl_tlsext.h
+ /usr/include/bits/string2.h ../include/compat/unistd.h \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/getopt.h ../include/openssl/err.h ../include/openssl/ssl.h \
+ ../include/openssl/hmac.h ../include/openssl/pem.h \
+ ../include/openssl/pem2.h ../include/openssl/ssl2.h \
+ ../include/openssl/ssl3.h ../include/openssl/tls1.h \
+ ../include/openssl/dtls1.h ../include/compat/sys/time.h \
+ /usr/include/sys/time.h ../include/openssl/ssl23.h \
+ ../include/openssl/srtp.h bytestring.h ssl_tlsext.h
 
 /usr/include/stdc-predef.h:
 
@@ -109,8 +106,6 @@ ssl_tlsext.lo: ssl_tlsext.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -143,8 +138,6 @@ ssl_tlsext.lo: ssl_tlsext.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/stdio.h:
 
-/usr/include/bits/stdio2.h:
-
 ../include/openssl/crypto.h:
 
 ../include/compat/stdlib.h:
@@ -160,8 +153,6 @@ ssl_tlsext.lo: ssl_tlsext.c /usr/include/stdc-predef.h \
 /usr/include/alloca.h:
 
 /usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/stdlib.h:
 
 ../include/openssl/stack.h:
 
@@ -225,8 +216,6 @@ ssl_locl.h:
 
 /usr/include/bits/string2.h:
 
-/usr/include/bits/string3.h:
-
 ../include/compat/unistd.h:
 
 /usr/include/unistd.h:
@@ -238,8 +227,6 @@ ssl_locl.h:
 /usr/include/bits/confname.h:
 
 /usr/include/getopt.h:
-
-/usr/include/bits/unistd.h:
 
 ../include/openssl/err.h:
 

@@ -10,24 +10,22 @@ x509v3/libcrypto_la-v3_conf.lo: x509v3/v3_conf.c \
  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
- /usr/include/bits/stdio.h /usr/include/bits/stdio2.h \
- ../include/compat/string.h /usr/include/string.h \
- /usr/include/bits/string.h /usr/include/bits/string2.h \
- ../include/compat/stdlib.h /usr/include/stdlib.h \
- ../include/compat/sys/types.h /usr/include/sys/types.h \
- ../include/compat/time.h /usr/include/time.h \
+ /usr/include/bits/stdio.h ../include/compat/string.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h ../include/compat/stdlib.h \
+ /usr/include/stdlib.h ../include/compat/sys/types.h \
+ /usr/include/sys/types.h ../include/compat/time.h /usr/include/time.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
- /usr/include/bits/string3.h ../include/openssl/conf.h \
- ../include/openssl/opensslconf.h ../include/openssl/opensslfeatures.h \
- ../include/openssl/bio.h ../include/openssl/crypto.h \
- /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
- /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/bits/stdlib.h ../include/openssl/stack.h \
+ ../include/openssl/conf.h ../include/openssl/opensslconf.h \
+ ../include/openssl/opensslfeatures.h ../include/openssl/bio.h \
+ ../include/openssl/crypto.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-float.h ../include/openssl/stack.h \
  ../include/openssl/safestack.h ../include/openssl/opensslv.h \
  ../include/openssl/ossl_typ.h ../include/openssl/lhash.h \
  ../include/openssl/err.h /usr/include/errno.h /usr/include/bits/errno.h \
@@ -91,8 +89,6 @@ x509v3/libcrypto_la-v3_conf.lo: x509v3/v3_conf.c \
 
 /usr/include/bits/stdio.h:
 
-/usr/include/bits/stdio2.h:
-
 ../include/compat/string.h:
 
 /usr/include/string.h:
@@ -123,8 +119,6 @@ x509v3/libcrypto_la-v3_conf.lo: x509v3/v3_conf.c \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -134,8 +128,6 @@ x509v3/libcrypto_la-v3_conf.lo: x509v3/v3_conf.c \
 /usr/include/stdint.h:
 
 /usr/include/bits/wchar.h:
-
-/usr/include/bits/string3.h:
 
 ../include/openssl/conf.h:
 
@@ -154,8 +146,6 @@ x509v3/libcrypto_la-v3_conf.lo: x509v3/v3_conf.c \
 /usr/include/alloca.h:
 
 /usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/stdlib.h:
 
 ../include/openssl/stack.h:
 

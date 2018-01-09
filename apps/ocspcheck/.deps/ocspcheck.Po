@@ -16,19 +16,18 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
  ../../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
- /usr/include/bits/uio.h /usr/include/bits/socket.h \
- /usr/include/bits/socket_type.h /usr/include/bits/sockaddr.h \
- /usr/include/asm/socket.h /usr/include/asm-generic/socket.h \
- /usr/include/asm/sockios.h /usr/include/asm-generic/sockios.h \
- /usr/include/bits/socket2.h /usr/include/bits/in.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h /usr/include/bits/socket_type.h \
+ /usr/include/bits/sockaddr.h /usr/include/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h /usr/include/bits/in.h \
  ../../include/compat/sys/stat.h /usr/include/sys/stat.h \
  /usr/include/bits/stat.h ../../include/compat/err.h /usr/include/err.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
  ../../include/compat/fcntl.h /usr/include/fcntl.h \
  /usr/include/bits/fcntl.h /usr/include/bits/fcntl-linux.h \
- /usr/include/bits/fcntl2.h ../../include/compat/limits.h \
+ ../../include/compat/limits.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
@@ -38,22 +37,20 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
  /usr/include/netdb.h /usr/include/rpc/netdb.h \
  /usr/include/bits/siginfo.h /usr/include/bits/netdb.h \
  ../../include/compat/poll.h /usr/include/poll.h /usr/include/sys/poll.h \
- /usr/include/bits/poll.h /usr/include/bits/poll2.h \
- ../../include/compat/stdio.h /usr/include/stdio.h /usr/include/libio.h \
- /usr/include/_G_config.h /usr/include/wchar.h \
- /usr/include/bits/sys_errlist.h /usr/include/bits/stdio.h \
- /usr/include/bits/stdio2.h ../../include/compat/stdlib.h \
+ /usr/include/bits/poll.h ../../include/compat/stdio.h \
+ /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/wchar.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h ../../include/compat/stdlib.h \
  /usr/include/stdlib.h /usr/include/bits/waitflags.h \
  /usr/include/bits/waitstatus.h /usr/include/xlocale.h \
  /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/bits/stdlib.h ../../include/compat/string.h \
- /usr/include/string.h /usr/include/bits/string.h \
- /usr/include/bits/string2.h /usr/include/bits/string3.h \
+ ../../include/compat/string.h /usr/include/string.h \
+ /usr/include/bits/string.h /usr/include/bits/string2.h \
  /usr/include/bits/timex.h ../../include/compat/unistd.h \
  /usr/include/unistd.h /usr/include/bits/posix_opt.h \
  /usr/include/bits/environments.h /usr/include/bits/confname.h \
- /usr/include/getopt.h /usr/include/bits/unistd.h \
- ../../include/openssl/err.h ../../include/openssl/opensslconf.h \
+ /usr/include/getopt.h ../../include/openssl/err.h \
+ ../../include/openssl/opensslconf.h \
  ../../include/openssl/opensslfeatures.h ../../include/openssl/ossl_typ.h \
  ../../include/openssl/bio.h ../../include/openssl/crypto.h \
  ../../include/openssl/stack.h ../../include/openssl/safestack.h \
@@ -144,8 +141,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -165,8 +160,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 /usr/include/asm/sockios.h:
 
 /usr/include/asm-generic/sockios.h:
-
-/usr/include/bits/socket2.h:
 
 /usr/include/bits/in.h:
 
@@ -189,8 +182,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 /usr/include/bits/fcntl.h:
 
 /usr/include/bits/fcntl-linux.h:
-
-/usr/include/bits/fcntl2.h:
 
 ../../include/compat/limits.h:
 
@@ -230,8 +221,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/poll.h:
 
-/usr/include/bits/poll2.h:
-
 ../../include/compat/stdio.h:
 
 /usr/include/stdio.h:
@@ -245,8 +234,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 /usr/include/bits/sys_errlist.h:
 
 /usr/include/bits/stdio.h:
-
-/usr/include/bits/stdio2.h:
 
 ../../include/compat/stdlib.h:
 
@@ -262,8 +249,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/stdlib-float.h:
 
-/usr/include/bits/stdlib.h:
-
 ../../include/compat/string.h:
 
 /usr/include/string.h:
@@ -271,8 +256,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 /usr/include/bits/string.h:
 
 /usr/include/bits/string2.h:
-
-/usr/include/bits/string3.h:
 
 /usr/include/bits/timex.h:
 
@@ -287,8 +270,6 @@ ocspcheck.o: ocspcheck.c /usr/include/stdc-predef.h \
 /usr/include/bits/confname.h:
 
 /usr/include/getopt.h:
-
-/usr/include/bits/unistd.h:
 
 ../../include/openssl/err.h:
 

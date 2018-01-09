@@ -13,8 +13,8 @@ chacha/libcrypto_la-chacha.lo: chacha/chacha.c /usr/include/stdc-predef.h \
  /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h
 
 /usr/include/stdc-predef.h:
 
@@ -73,8 +73,6 @@ chacha/chacha-merged.c:
 /usr/include/bits/sigset.h:
 
 /usr/include/bits/time.h:
-
-/usr/include/bits/select2.h:
 
 /usr/include/sys/sysmacros.h:
 

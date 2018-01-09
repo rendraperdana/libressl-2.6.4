@@ -19,19 +19,18 @@ ssl_asn1.lo: ssl_asn1.c /usr/include/stdc-predef.h \
  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
  /usr/include/bits/sys_errlist.h /usr/include/bits/stdio.h \
- /usr/include/bits/stdio2.h ../include/openssl/crypto.h \
- ../include/compat/stdlib.h /usr/include/stdlib.h \
- /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
- /usr/include/endian.h /usr/include/bits/endian.h \
- /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
- /usr/include/xlocale.h ../include/compat/sys/types.h \
- /usr/include/sys/types.h ../include/compat/time.h /usr/include/time.h \
+ ../include/openssl/crypto.h ../include/compat/stdlib.h \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/byteswap-16.h /usr/include/xlocale.h \
+ ../include/compat/sys/types.h /usr/include/sys/types.h \
+ ../include/compat/time.h /usr/include/time.h \
  ../include/compat/sys/select.h /usr/include/sys/select.h \
  /usr/include/bits/select.h /usr/include/bits/sigset.h \
- /usr/include/bits/time.h /usr/include/bits/select2.h \
- /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
- /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/bits/stdlib.h ../include/openssl/stack.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-float.h ../include/openssl/stack.h \
  ../include/openssl/safestack.h ../include/openssl/opensslv.h \
  ../include/openssl/objects.h ../include/openssl/obj_mac.h \
  ../include/openssl/asn1.h /usr/include/bits/timex.h \
@@ -47,14 +46,13 @@ ssl_asn1.lo: ssl_asn1.c /usr/include/stdc-predef.h \
  ../include/openssl/dtls1.h ../include/compat/sys/time.h \
  /usr/include/sys/time.h ../include/compat/string.h /usr/include/string.h \
  /usr/include/bits/string.h /usr/include/bits/string2.h \
- /usr/include/bits/string3.h ../include/openssl/ssl23.h \
- ../include/openssl/srtp.h ssl_locl.h /usr/include/errno.h \
- /usr/include/bits/errno.h /usr/include/linux/errno.h \
- /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
- /usr/include/asm-generic/errno-base.h ../include/compat/unistd.h \
- /usr/include/unistd.h /usr/include/bits/posix_opt.h \
- /usr/include/bits/environments.h /usr/include/bits/confname.h \
- /usr/include/getopt.h /usr/include/bits/unistd.h \
+ ../include/openssl/ssl23.h ../include/openssl/srtp.h ssl_locl.h \
+ /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ ../include/compat/unistd.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/getopt.h \
  ../include/openssl/err.h bytestring.h
 
 /usr/include/stdc-predef.h:
@@ -131,8 +129,6 @@ ssl_asn1.lo: ssl_asn1.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/stdio.h:
 
-/usr/include/bits/stdio2.h:
-
 ../include/openssl/crypto.h:
 
 ../include/compat/stdlib.h:
@@ -171,8 +167,6 @@ ssl_asn1.lo: ssl_asn1.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/time.h:
 
-/usr/include/bits/select2.h:
-
 /usr/include/sys/sysmacros.h:
 
 /usr/include/bits/pthreadtypes.h:
@@ -180,8 +174,6 @@ ssl_asn1.lo: ssl_asn1.c /usr/include/stdc-predef.h \
 /usr/include/alloca.h:
 
 /usr/include/bits/stdlib-float.h:
-
-/usr/include/bits/stdlib.h:
 
 ../include/openssl/stack.h:
 
@@ -247,8 +239,6 @@ ssl_asn1.lo: ssl_asn1.c /usr/include/stdc-predef.h \
 
 /usr/include/bits/string2.h:
 
-/usr/include/bits/string3.h:
-
 ../include/openssl/ssl23.h:
 
 ../include/openssl/srtp.h:
@@ -278,8 +268,6 @@ ssl_locl.h:
 /usr/include/bits/confname.h:
 
 /usr/include/getopt.h:
-
-/usr/include/bits/unistd.h:
 
 ../include/openssl/err.h:
 

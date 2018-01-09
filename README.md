@@ -82,6 +82,8 @@ make check    # runs builtin unit tests
 make install  # set DESTDIR= to install to an alternate location
 ```
 
+When fail to compile, please execute autoreconf -f -i
+
 If you wish to use the CMake build system, use these commands:
 
 ```sh
