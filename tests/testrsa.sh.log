@@ -1,0 +1,86 @@
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+Generating RSA private key, 2048 bit long modulus
+....+++
+.....................+++
+e is 65537 (0x10001)
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+You are about to be asked to enter information that will be incorporated
+into your certificate request.
+What you are about to enter is what is called a Distinguished Name or a DN.
+There are quite a few fields but you can leave some blank
+For some fields there will be a default value,
+If you enter '.', the field will be left blank.
+-----
+Country Name (2 letter code) [CA]:CA
+Organization Name (eg, company) []:Shake it Vera
+Common Name (eg, YOUR name) []:Wastelandus
+Common Name (eg, YOUR name) []:Maximus
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 16876008347239843324 (0xea33a02dcbc205fc)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CA, O=Shake it Vera, CN=Wastelandus, CN=Maximus
+        Validity
+            Not Before: Jan 15 16:01:19 2018 GMT
+            Not After : Jan 15 16:01:19 2019 GMT
+        Subject: C=CA, O=Shake it Vera, CN=Wastelandus, CN=Maximus
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f5:76:05:82:99:85:7c:51:e0:84:0f:36:b0:ee:
+                    73:58:71:c6:a3:5a:ba:f3:16:fc:70:60:8f:ec:68:
+                    e8:e8:84:93:a2:41:a4:35:a5:76:2d:e6:db:33:72:
+                    f3:0c:dd:c3:b0:00:1a:14:31:bc:10:0e:55:48:1a:
+                    6c:52:a2:9c:6c:56:df:b8:a2:fe:0a:bd:21:71:9f:
+                    ab:28:9d:8d:df:bc:91:ff:da:26:8d:9f:2f:ed:d9:
+                    15:80:0e:28:2b:c6:5c:0d:2a:16:84:d4:65:25:23:
+                    c1:12:2e:5b:72:2b:d5:ce:91:7a:5e:a6:db:60:2f:
+                    10:f3:1f:4d:57:97:ee:5e:20:0e:55:67:44:d3:0d:
+                    2e:94:3a:4e:61:f0:d8:03:27:dd:48:17:89:13:36:
+                    e4:12:95:ad:51:a2:83:54:a9:9f:2f:fc:54:e6:23:
+                    ff:f4:92:35:1a:03:b5:19:28:ff:15:77:21:3e:7d:
+                    b5:6e:bd:ec:04:a1:22:8f:f7:c5:3a:df:42:ab:0e:
+                    9b:45:b1:71:c0:9e:ac:c2:18:83:d8:5f:36:33:b3:
+                    50:ab:7e:a7:5d:31:1b:40:01:f1:b4:f4:ac:15:73:
+                    43:59:c0:36:b9:bb:5b:c5:70:ca:d8:a1:52:14:e9:
+                    e1:bc:bd:2a:2a:5f:63:7e:63:fe:98:7e:e4:d8:1d:
+                    a4:4b
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         ae:79:04:cf:1c:44:79:73:26:a0:8f:02:6b:18:0b:2d:a6:8b:
+         ad:08:44:d4:9d:4f:a4:42:5d:11:44:c4:de:32:28:6c:db:2b:
+         84:b1:8a:cf:e5:fe:8e:55:3d:d8:90:68:b6:b3:5e:7b:a1:b6:
+         94:db:6a:0d:68:e2:0d:67:15:75:8b:46:b9:ab:2c:28:a8:45:
+         00:b8:0a:4e:49:1b:6f:ff:54:e8:38:1e:a3:b7:00:76:26:93:
+         58:7e:54:d9:bd:2e:03:89:9e:d7:ac:14:a3:91:8f:2f:dc:bf:
+         7f:15:7b:38:34:37:5a:45:71:75:e9:d5:41:df:e0:cd:05:54:
+         7f:cd:b3:f2:53:dd:89:bb:14:ae:21:bd:bc:0b:07:d6:aa:c5:
+         53:46:20:5d:95:14:73:06:e9:f1:78:9d:f0:9d:87:79:0d:e1:
+         0d:3d:7e:32:2f:aa:22:20:74:e6:f7:46:34:69:01:66:5a:8d:
+         43:a0:6d:70:c5:43:19:2e:57:af:cf:e2:dd:a5:5d:60:a5:14:
+         19:5c:8b:15:f6:3c:ef:58:f4:b8:9a:07:90:2e:2e:80:fa:d9:
+         89:07:b7:80:17:33:93:c8:f3:5d:1b:f4:fd:c5:ef:d9:ce:db:
+         a6:d3:ab:bf:aa:49:d0:2f:db:fc:48:e8:94:d5:50:8b:c7:2e:
+         f9:69:7c:b3
+-----BEGIN CERTIFICATE-----
+MIIDFjCCAf4CCQDqM6Aty8IF/DANBgkqhkiG9w0BAQsFADBNMQswCQYDVQQGEwJD
+QTEWMBQGA1UECgwNU2hha2UgaXQgVmVyYTEUMBIGA1UEAwwLV2FzdGVsYW5kdXMx
+EDAOBgNVBAMMB01heGltdXMwHhcNMTgwMTE1MTYwMTE5WhcNMTkwMTE1MTYwMTE5
+WjBNMQswCQYDVQQGEwJDQTEWMBQGA1UECgwNU2hha2UgaXQgVmVyYTEUMBIGA1UE
+AwwLV2FzdGVsYW5kdXMxEDAOBgNVBAMMB01heGltdXMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQD1dgWCmYV8UeCEDzaw7nNYccajWrrzFvxwYI/saOjo
+hJOiQaQ1pXYt5tszcvMM3cOwABoUMbwQDlVIGmxSopxsVt+4ov4KvSFxn6sonY3f
+vJH/2iaNny/t2RWADigrxlwNKhaE1GUlI8ESLltyK9XOkXpepttgLxDzH01Xl+5e
+IA5VZ0TTDS6UOk5h8NgDJ91IF4kTNuQSla1RooNUqZ8v/FTmI//0kjUaA7UZKP8V
+dyE+fbVuvewEoSKP98U630KrDptFsXHAnqzCGIPYXzYzs1CrfqddMRtAAfG09KwV
+c0NZwDa5u1vFcMrYoVIU6eG8vSoqX2N+Y/6YfuTYHaRLAgMBAAEwDQYJKoZIhvcN
+AQELBQADggEBAK55BM8cRHlzJqCPAmsYCy2mi60IRNSdT6RCXRFExN4yKGzbK4Sx
+is/l/o5VPdiQaLazXnuhtpTbag1o4g1nFXWLRrmrLCioRQC4Ck5JG2//VOg4HqO3
+AHYmk1h+VNm9LgOJntesFKORjy/cv38Vezg0N1pFcXXp1UHf4M0FVH/Ns/JT3Ym7
+FK4hvbwLB9aqxVNGIF2VFHMG6fF4nfCdh3kN4Q09fjIvqiIgdOb3RjRpAWZajUOg
+bXDFQxkuV6/P4t2lXWClFBlcixX2PO9Y9LiaB5AuLoD62YkHt4AXM5PI810b9P3F
+79nO26bTq7+qSdAv2/xI6JTVUIvHLvlpfLM=
+-----END CERTIFICATE-----

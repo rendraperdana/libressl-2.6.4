@@ -1,0 +1,74 @@
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+Generating DSA parameters, 512 bit long prime
+This could take some time
+...+++++++++++++++++++++++++++++++++++++++++++++++++++*
+.......+........................+.........+...+...........+............+....+..+...........+......+...........+............+...+.....+.+.......+................+..........+...+.....................+++++++++++++++++++++++++++++++++++++++++++++++++++*
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+Generating a 512 bit DSA private key
+writing new private key to 'testdsa.key'
+-----
+You are about to be asked to enter information that will be incorporated
+into your certificate request.
+What you are about to enter is what is called a Distinguished Name or a DN.
+There are quite a few fields but you can leave some blank
+For some fields there will be a default value,
+If you enter '.', the field will be left blank.
+-----
+Country Name (2 letter code) [CA]:CA
+Organization Name (eg, company) []:Shake it Vera
+Common Name (eg, YOUR name) []:Wastelandus
+Common Name (eg, YOUR name) []:Maximus
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 10575921241093983131 (0x92c53855cbea4b9b)
+    Signature Algorithm: dsa_with_SHA256
+        Issuer: C=CA, O=Shake it Vera, CN=Wastelandus, CN=Maximus
+        Validity
+            Not Before: Jan 15 16:01:19 2018 GMT
+            Not After : Feb 14 16:01:19 2018 GMT
+        Subject: C=CA, O=Shake it Vera, CN=Wastelandus, CN=Maximus
+        Subject Public Key Info:
+            Public Key Algorithm: dsaEncryption
+                pub: 
+                    1a:60:9f:ee:cd:35:cb:c6:b9:aa:01:40:8f:87:af:
+                    71:3d:fb:6f:a4:29:a6:17:6a:31:74:a5:5b:2f:ef:
+                    53:66:c9:18:72:ee:25:65:a3:1c:aa:37:0e:b2:ce:
+                    3f:bf:14:e7:c0:8e:ea:24:8d:90:aa:c8:95:3f:10:
+                    c3:05:34:5a
+                P:   
+                    00:b3:08:33:13:24:f4:9e:ed:97:dc:f3:5e:ff:0f:
+                    ed:3c:2f:15:3f:a5:c2:26:d3:42:cb:a0:19:8d:3f:
+                    9e:de:71:df:4b:4b:2f:a1:70:58:89:ea:22:d7:9f:
+                    2f:d6:ee:dc:56:5e:56:fe:d1:4d:d7:5a:67:d6:9c:
+                    04:86:30:9f:fd
+                Q:   
+                    00:ed:c8:3e:c6:ac:85:21:e9:dc:2c:9d:c7:af:c9:
+                    d7:ec:3d:48:95:b5
+                G:   
+                    37:24:fb:62:aa:69:b3:8c:a8:31:7b:4a:e0:38:40:
+                    39:a1:2a:81:f0:4d:8a:a8:c3:2a:8c:a6:6d:48:90:
+                    bf:e1:da:2b:8a:00:03:54:c8:a9:83:d2:29:b9:43:
+                    e9:d9:fa:8b:51:e5:28:12:b4:b6:1d:97:43:7c:a3:
+                    1b:a7:4a:65
+    Signature Algorithm: dsa_with_SHA256
+         r:   
+             00:bb:d6:ae:e3:03:12:71:b0:5b:9a:2f:4b:9b:29:
+             1a:df:0a:4d:a8:7f
+         s:   
+             7b:94:31:cb:80:e6:56:24:55:32:21:1e:67:78:10:
+             a2:98:6a:3d:de
+-----BEGIN CERTIFICATE-----
+MIICDDCCAckCCQCSxThVy+pLmzALBglghkgBZQMEAwIwTTELMAkGA1UEBhMCQ0Ex
+FjAUBgNVBAoMDVNoYWtlIGl0IFZlcmExFDASBgNVBAMMC1dhc3RlbGFuZHVzMRAw
+DgYDVQQDDAdNYXhpbXVzMB4XDTE4MDExNTE2MDExOVoXDTE4MDIxNDE2MDExOVow
+TTELMAkGA1UEBhMCQ0ExFjAUBgNVBAoMDVNoYWtlIGl0IFZlcmExFDASBgNVBAMM
+C1dhc3RlbGFuZHVzMRAwDgYDVQQDDAdNYXhpbXVzMIHwMIGoBgcqhkjOOAQBMIGc
+AkEAswgzEyT0nu2X3PNe/w/tPC8VP6XCJtNCy6AZjT+e3nHfS0svoXBYieoi158v
+1u7cVl5W/tFN11pn1pwEhjCf/QIVAO3IPsashSHp3Cydx6/J1+w9SJW1AkA3JPti
+qmmzjKgxe0rgOEA5oSqB8E2KqMMqjKZtSJC/4dorigADVMipg9IpuUPp2fqLUeUo
+ErS2HZdDfKMbp0plA0MAAkAaYJ/uzTXLxrmqAUCPh69xPftvpCmmF2oxdKVbL+9T
+ZskYcu4lZaMcqjcOss4/vxTnwI7qJI2QqsiVPxDDBTRaMAsGCWCGSAFlAwQDAgMw
+ADAtAhUAu9au4wMScbBbmi9Lmyka3wpNqH8CFHuUMcuA5lYkVTIhHmd4EKKYaj3e
+-----END CERTIFICATE-----

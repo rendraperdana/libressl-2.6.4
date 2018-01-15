@@ -1,0 +1,5 @@
+Test 0 - MD5+SHA1
+Test 1 - GOST94
+Test 2 - SHA256 (via TLSv1.2)
+Test 3 - SHA384
+Test 4 - STREEBOG256

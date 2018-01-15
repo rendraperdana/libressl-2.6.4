@@ -1,0 +1,300 @@
+cat
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cfb1
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cfb1 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cfb8
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-cfb8 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-ecb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-ecb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-128-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cfb1
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cfb1 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cfb8
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-cfb8 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-ecb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-ecb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-192-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cfb1
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cfb1 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cfb8
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-cfb8 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-ecb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-ecb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+aes-256-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-ecb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-ecb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+bf-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-ecb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-ecb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+cast5-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-cfb8
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-cfb8 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ecb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ecb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ede3-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+des-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+desx-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+desx-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-40-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-40-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-64-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-64-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-cbc
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-cbc base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-cfb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-cfb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-ecb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-ecb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-ofb
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc2-ofb base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc4
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc4 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc4-40
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+rc4-40 base64
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf
+WARNING: can't open config file: /usr/etc/ssl/openssl.cnf

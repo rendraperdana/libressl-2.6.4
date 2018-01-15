@@ -1,0 +1,11 @@
+Test 0 - DTLSv1 client
+Test 1 - TLSv1 client
+Test 2 - TLSv1_1 client
+Test 3 - TLSv1_2 client
+Test 4 - SSLv23 default
+Test 5 - SSLv23 (no TLSv1.2)
+Test 6 - SSLv23 (no TLSv1.1)
+Test 7 - TLS default
+Test 8 - TLS (no TLSv1.2)
+Test 9 - TLS (no TLSv1.1)
+Test 10 - TLS (no TLSv1.0, no TLSv1.1)
