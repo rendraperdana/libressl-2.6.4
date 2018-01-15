@@ -67,10 +67,10 @@ test sslv2/sslv3 with both client and server authentication via BIO pair and app
 client authentication
 server authentication
 In app_verify_callback, allowing cert. Arg is: Test Callback Argument
-Finished printing do we have a context? 0x0x7fff53f45ba0 a cert? 0x0x11071c0
+Finished printing do we have a context? 0x0x7ffcb5a904b0 a cert? 0x0xf231c0
 cert depth=0 /C=UK/O=OpenSSL Group/OU=FOR TESTING PURPOSES ONLY/CN=Test Server Cert
 In app_verify_callback, allowing cert. Arg is: Test Callback Argument
-Finished printing do we have a context? 0x0x7fff53f45bc0 a cert? 0x0x11201d0
+Finished printing do we have a context? 0x0x7ffcb5a904d0 a cert? 0x0xf3c1d0
 cert depth=0 /C=UK/O=OpenSSL Group/OU=FOR TESTING PURPOSES ONLY/CN=Test Server Cert
 TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA
 1 handshakes of 256 bytes done
